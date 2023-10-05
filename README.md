@@ -13,6 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauri-Agrawal838&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+[![@29062002g's Holopin board](https://holopin.io/api/user/board?user=29062002g)](https://holopin.io/@29062002g)
 ![](https://github-profile-trophy.vercel.app/?username=Gauri-Agrawal838&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
