@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Currently Preparing For Placements.<br>🌱 I’m currently learning MongoDB.<br>🤔 Prefinal Year student at GLA University.<br>📫 How to reach me: https://www.linkedin.com/in/gauri-a-553509221/, gauri.agrawal_cs20@gla.ac.in<br>😄 Pronouns: She/Her<br>
+🔭 I’m Currently Preparing For Placements.<br>🌱 I’m currently learning MongoDB.<br>🤔 Final Year student at GLA University.<br>📫 How to reach me: https://www.linkedin.com/in/gauri-a-553509221/, gauri.agrawal_cs20@gla.ac.in<br>😄 Pronouns: She/Her<br>
 
 
 ## 🌐 Socials:
