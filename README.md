@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Currently looking For Cloud Engineer roles.<br>🌱 I’m currently learning DevOps.<br>🤔 I'm working at Sify Technologies Ltd.<br>📫 How to reach me: https://www.linkedin.com/in/gauri-a-553509221/, gauri.agrawal_cs20@gla.ac.in<br>😄 Pronouns: She/Her<br>
+🔭 I’m open to work and looking for Cloud Engineer roles.<br>🌱 I’m currently learning DevOps.<br>🤔 I'm working at Sify Technologies Ltd.<br>📫 How to reach me: https://www.linkedin.com/in/gauri-a-553509221/, gauri.agrawal_cs20@gla.ac.in<br>😄 Pronouns: She/Her<br>
 
 
 ## 🌐 Socials:
